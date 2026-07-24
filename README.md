@@ -11,6 +11,25 @@ It investigates a **prompt-injection worm** that spread through the multi-agent 
 
 ---
 
+## Submission Information
+
+### Team Members
+| Name | Role | Email |
+|---|---|---|
+| Paolo Vásquez | Team Leader | paolo.vasquez@utec.edu.pe |
+| Oscar Chu Lao | Member 01 | oscar.chulao@utec.edu.pe |
+| Ronaldo Flores | Member 02 | ronaldo.flores@utec.edu.pe |
+
+### Student Team
+Team composed of the members above, formed for the Data Visualization (DS5343) course, 2026-1 semester.
+
+### Solution Development
+**AI Forensics** was developed by the Universidad de Ingeniería y Tecnología (UTEC) Data Visualization (DS5343) class, taught in Fall 2026 by Dr. Germain Garcia Zanabria, and adapted by the student team for this challenge.
+
+### Additional Information
+- **Development hours**: Approximately 40–50 hours
+- **Permissions**: Permission granted to post in the publicly accessible Visual Analytics Benchmark Repository.
+
 ## Tools Used
 
 **Data exploration & transformation:** [Python](https://www.python.org/) ([Jupyter](https://jupyter.org/), `json`, `bisect`, `datetime`, `collections`)
